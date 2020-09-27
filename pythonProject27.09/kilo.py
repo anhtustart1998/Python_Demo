@@ -6,3 +6,5 @@ print(danh_sach_chan)
 
 danh_sach_nhan_doi = list(map(lambda a:a*2,danh_sach))
 print(danh_sach_nhan_doi)
+
+#change
